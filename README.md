@@ -1,14 +1,49 @@
-<h1 align="center">Hi 👋, I'm Debabrata Pritam</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Debabrata%20Pritam&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/debabrata-pritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debabrata-pritam" height="30" width="40" /></a>
-<a href="https://kaggle.com/debabratapritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debabratapritam" height="30" width="40" /></a>
-<a href="https://fb.com/debabrata.barmana.pritama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debabrata.barmana.pritama" height="30" width="40" /></a>
-<a href="https://instagram.com/debabrata_pritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debabrata_pritam" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pritamhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pritamhere" height="30" width="40" /></a>
-</p>
+  <h3>CS Undergraduate | Full-Stack Developer | Machine Learning Enthusiast</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+  <p>
+    <a href="https://www.linkedin.com/in/debabrata-pritam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/PritamHeree"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.kaggle.com/debabratapritam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+    <a href="mailto:pritamdebabrata@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+### 🖋️ Professional Profile
+
+I am a **Computer Science and Engineering** student focused on building robust, scalable software and exploring the intricacies of high-performance graphics. Whether it's architecting a modern web application with **Next.js** or rendering complex shapes with **OpenGL**, I thrive on solving technical challenges through clean, maintainable code.
+
+* 🚀 **Current Focus:** Full-stack development with the **Next.js** ecosystem.
+* 🎨 **Specialized Skills:** Graphics programming (C++/OpenGL) and Coordinate Geometry.
+* 🧠 **Interests:** AI Engineering, Machine Learning, and System Design.
+
+---
+
+### 🛠️ Technical Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Web Development** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Systems & Graphics** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=5586A4) ![MATLAB](https://img.shields.io/badge/-MATLAB-D1242F?style=flat-square&logo=mathworks&logoColor=white) |
+| **Data & AI** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) |
+
+---
+
+### 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PritamHeree&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Pritam's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamHeree&layout=compact&theme=tokyonight&hide_border=true" alt="Pritam's Languages" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>"The goal is not just to write code, but to solve problems beautifully."</i></p>
+</div>
