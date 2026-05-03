@@ -13,9 +13,9 @@
 
 ---
 
-### 🖋️ Professional Profile
+### 🖋️ The Journey
 
-I am a **Computer Science and Engineering** student at **AIUB**, dedicated to learning how to build impactful software and intelligent systems. My journey involves exploring the vast landscape of data-driven architecture and modern web technologies. I am currently an **Aspiring Machine Learning Engineer**, focused on refining my skills in full-stack development while gaining a deeper understanding of LLM orchestration, retrieval-augmented generation (RAG), and agentic workflows.
+I am a **Computer Science and Engineering** student at **AIUB**, dedicated to learning how to build impactful software and intelligent systems. My path involves exploring the vast landscape of data-driven architecture and modern web technologies. I am currently an **Aspiring Machine Learning Engineer**, focused on refining my skills in full-stack development while gaining a deeper understanding of LLM orchestration, retrieval-augmented generation (RAG), and agentic workflows.
 
 * 📖 **Learning Path:** Deepening my knowledge in Machine Learning and Production-grade AI.
 * 🚀 **Current Focus:** Building full-stack applications with **MERN**, **Next.js**, and exploring **Vector Databases**.
